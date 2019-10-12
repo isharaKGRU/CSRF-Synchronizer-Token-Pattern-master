@@ -19,7 +19,7 @@ if (isset($_POST['msg'])){
         echo '<div class=outer_div>
 
         <h1 class=welcome align=center>Cookie Rejected!</h1>
-        <p class=congrats align=center>You Cheater!</p>
+        <p class=congrats align=center>You Cheat.... token is does not match!</p>
 
         </div>';
     }
